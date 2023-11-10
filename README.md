@@ -35,13 +35,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 In the terminal:
 
 - run 'npm install'
-- run 'npm i'
-- run 'npm i'
-- run 'npm i'
+- run 'npm i sql'
+- run 'npm i sequelize'
+- run 'npm i express'
 - run 'npm i dotenv'
 - Then, run 'npm start'
 
+It will say that it is listening at port 3001.
+
 - Go to Insomnia
+
+From there, you can access either Categories, Products, or Tags
 
 Provide instructions and examples for use. Include screenshots as needed.
 
