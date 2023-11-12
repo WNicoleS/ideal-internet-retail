@@ -32,6 +32,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
+In '.env.EXAMPLE' file, remove '.EXAMPLE' and add SQL user and password.
 In the terminal:
 
 - run 'npm install'
