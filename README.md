@@ -43,7 +43,7 @@ From there, you can access either Categories, Products, or Tags
 
 ![image of application](assets/images/insomniaApp.png)
 
-Video Guide: 
+Video Guide: https://watch.screencastify.com/v/52J81nulBug98WZKcGaV
 
 ## Credits
 
