@@ -4,16 +4,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This is the back end of an e-commerce website. It allows you to look up categories, products, and tags of items.
 
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -48,21 +41,13 @@ It will say that it is listening at port 3001.
 
 From there, you can access either Categories, Products, or Tags
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
 ![image of application](assets/images/insomniaApp.png)
 
 Video Guide: 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Starter code from fantastic-umbrella.
 
 ## License
 
