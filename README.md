@@ -20,6 +20,7 @@ This is the back end of an e-commerce website. It allows you to look up categori
 
 ## Installation
 
+- Insomnia
 - NodeJS
 - MySQL
 
